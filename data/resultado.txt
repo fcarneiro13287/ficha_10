@@ -1,0 +1,9 @@
+tempo maximo: 94.805 tempo minimo: 93.43 media do tempo90.74666
+tempo maximo: 93.935 tempo minimo: 93.33 media do tempo90.54728
+tempo maximo: 94.325 tempo minimo: 93.23 media do tempo90.53322
+tempo maximo: 94.805 tempo minimo: 93.43 media do tempo90.74666
+tempo maximo: 93.935 tempo minimo: 93.33 media do tempo90.54728
+tempo maximo: 94.325 tempo minimo: 93.23 media do tempo90.53322
+tempo maximo: 94.805 tempo minimo: 93.43 media do tempo90.74666
+tempo maximo: 93.935 tempo minimo: 93.33 media do tempo90.54728
+tempo maximo: 94.325 tempo minimo: 93.23 media do tempo90.53322

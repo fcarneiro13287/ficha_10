@@ -3,7 +3,7 @@ import java.util.*;
 
 public class LeituraComScanner {
     public static void main (String arg[]) {
-        File file = new File ("C:\\Users\\Francis\\Documents\\TeSP\\2021_2022\\3_semestre\\Programacao_II_Valeria_Pequeno\\exercicio\\ficha_10\\tempos.txt");
+        File file = new File ("C:\\Users\\fjvmc\\Documents\\Tesp\\3_semestre\\Programacao_II\\exercicio\\ficha10\\tempos.txt");
         try {
             Scanner scanner = new Scanner(file);
             while(scanner.hasNext()) {

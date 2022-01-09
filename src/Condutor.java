@@ -77,4 +77,7 @@ public class Condutor {
     public float Max(){
         return Math.max(Math.max(Math.max(Math.max(this.volta1,this.volta2),this.volta3),this.volta4),this.volta5);
     }
+    public float Min(){
+        return Math.min(Math.max(Math.max(Math.max(this.volta1,this.volta2),this.volta3),this.volta4),this.volta5);
+    }
 }
